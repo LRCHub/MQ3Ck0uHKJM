@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "GAUZE",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2026-02-27T09:31:02.798969Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gauze",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/01_Gauze_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gauze",
+      "artist": "Red Red Meat",
+      "has_synced": false,
+      "path": "select/02_Gauze_Red_Red_Meat.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gauze",
+      "artist": "Gleemer",
+      "has_synced": false,
+      "path": "select/03_Gauze_Gleemer.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gauze",
+      "artist": "Aesop Rock",
+      "has_synced": false,
+      "path": "select/04_Gauze_Aesop_Rock.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gauze für Zah",
+      "artist": "Beirut",
+      "has_synced": false,
+      "path": "select/05_Gauze_für_Zah_Beirut.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gauze",
+      "artist": "Carissa's Wierd",
+      "has_synced": true,
+      "path": "select/06_Gauze_Carissa's_Wierd.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gauze",
+      "artist": "Aesop Rock",
+      "has_synced": true,
+      "path": "select/07_Gauze_Aesop_Rock.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "08 - Gauze",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/08_08_-_Gauze_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gauze of Friendship",
+      "artist": "Bob Mould",
+      "has_synced": false,
+      "path": "select/09_Gauze_of_Friendship_Bob_Mould.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gauze of Friendship",
+      "artist": "Mould, Bob",
+      "has_synced": false,
+      "path": "select/10_Gauze_of_Friendship_Mould,_Bob.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GAUZE",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_GAUZE_DUSTCELL.txt"
+    }
+  ]
+}
